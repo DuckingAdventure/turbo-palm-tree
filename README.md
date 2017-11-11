@@ -11,7 +11,7 @@ This should be a Work In Progress document with minimum information to start cod
     - [Gameplay Elements](#gameplay-elements)
         - [Rooms](#rooms)
         - [Weapons](#weapons)
-        - [Enemies](#stat-upgrade)
+        - [Stat Upgrade](#stat-upgrade)
         - [Enemies](#enemies)
         - [Boss](#boss)
     - [Game Physics](#game-physics)
