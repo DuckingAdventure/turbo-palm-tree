@@ -9,11 +9,15 @@ This should be a Work In Progress document with minimum information to start cod
         - [Core Gameplay](#core-gameplay)
         - [Gameflow](#gameflow)
     - [Gameplay Elements](#gameplay-elements)
+        - [Rooms](#rooms)
         - [Weapons](#weapons)
-        - [Enemies](#Enemies)
-        - [Boss](#Boss)
+        - [Enemies](#stat-upgrade)
+        - [Enemies](#enemies)
+        - [Boss](#boss)
     - [Game Physics](#game-physics)
-        - [Movement](#1-given-a-link-to-a-tex-file-compile-it)
+        - [Player](#player)
+        - [Enemies](#enemies)
+        - [Boss](#boss)
     - [Level Requirements](#level-requirements)
 
 ## Game Mechanics
